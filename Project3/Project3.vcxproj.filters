@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Modbus">
+      <UniqueIdentifier>{c357bb40-b286-4f0e-8958-b4af60ab87ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Peripherals">
+      <UniqueIdentifier>{e0f9e23c-a6f6-4350-a056-c184185b1ad4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Peripherals">
+      <UniqueIdentifier>{42f6e6e6-b7cd-4bc7-9644-33e72be409f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Modbus">
+      <UniqueIdentifier>{20defea5-40c2-4a56-9f8f-5956993dfdc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Implementation">
+      <UniqueIdentifier>{ab2b6654-eea9-4f8d-a99d-1607054ff86d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Implementaion">
+      <UniqueIdentifier>{0580d1f9-94e0-41f7-b3d5-6c39351daa15}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Project3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\controller.cpp">
+      <Filter>Source Files\Peripherals</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\laser_sensor.cpp">
+      <Filter>Source Files\Peripherals</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\mag_line.cpp">
+      <Filter>Source Files\Peripherals</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\modbus.c">
+      <Filter>Source Files\Modbus</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\modbus-data.c">
+      <Filter>Source Files\Modbus</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\modbus-rtu.c">
+      <Filter>Source Files\Modbus</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\modbus-tcp.c">
+      <Filter>Source Files\Modbus</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\read_file.cpp">
+      <Filter>Source Files\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\pid.cpp">
+      <Filter>Source Files\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\handle_intersection.cpp">
+      <Filter>Source Files\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\marker_check.cpp">
+      <Filter>Source Files\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="libmodbus\robot_state.cpp">
+      <Filter>Source Files\Implementation</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="libmodbus\laser_sensor.h">
+      <Filter>Header Files\Peripherals</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\controller.h">
+      <Filter>Header Files\Peripherals</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\mag_line.h">
+      <Filter>Header Files\Peripherals</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\config.h">
+      <Filter>Header Files\Modbus</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\modbus.h">
+      <Filter>Header Files\Modbus</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\modbus_helper.h">
+      <Filter>Header Files\Modbus</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\modbus-private.h">
+      <Filter>Header Files\Modbus</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\modbus-rtu.h">
+      <Filter>Header Files\Modbus</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\modbus-rtu-private.h">
+      <Filter>Header Files\Modbus</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\modbus-tcp.h">
+      <Filter>Header Files\Modbus</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\modbus-tcp-private.h">
+      <Filter>Header Files\Modbus</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\modbus-version.h">
+      <Filter>Header Files\Modbus</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\read_file.h">
+      <Filter>Header Files\Implementaion</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\pid.h">
+      <Filter>Header Files\Implementaion</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\handle_intersection.h">
+      <Filter>Header Files\Implementaion</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\marker_check.h">
+      <Filter>Header Files\Implementaion</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\robot_state.h">
+      <Filter>Header Files\Implementaion</Filter>
+    </ClInclude>
+    <ClInclude Include="test.h">
+      <Filter>Header Files\Implementaion</Filter>
+    </ClInclude>
+    <ClInclude Include="libmodbus\matplotlibcpp.h">
+      <Filter>Header Files\Implementaion</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="modbus.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

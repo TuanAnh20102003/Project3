@@ -1,0 +1,885 @@
+Connection successful
+VEL_CONTROL
+File found: C://Users//Admin//Downloads//Project1//Map_Direction/0/0_1.txt
+Number of intersections: 2
+Directions:
+1: L
+2: L
+
+Direction for intersection 2: L
+
+File found: C://Users//Admin//Downloads//Project1//Map_Direction/1/1_0.txt
+Number of intersections: 4
+Directions:
+2: L
+3: R
+
+Direction for intersection 2: L
+
+PID analog
+Error reading register of magnetic sensor: timed out
+Error reading register of magnetic sensor: timed out
+No line detected
+Checking for line...
+Elapsed time: 1.26179
+Error reading register of magnetic sensor: timed out
+[EMERGENCY] Emergency stop !
+Error reading register of magnetic sensor: timed out
+Stopped!
+Restart the vehicle
+Line detected
+Error reading register of magnetic sensor: timed out
+No line detected
+Checking for line...
+Error reading register of magnetic sensor: timed out
+Error reading register of magnetic sensor: timed out
+Error reading register of magnetic sensor: timed out
+Error reading register of magnetic sensor: timed out
+Error reading register of magnetic sensor: timed out
+Error reading register of magnetic sensor: timed out
+Error reading register of magnetic sensor: timed out
+Error reading register of magnetic sensor: timed out
+
+C:\Users\Admin\Downloads\Project1\x64\Debug\Project1.exe (process 6408) exited with code 3 (0x3).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+
+
+PID analogMarker check
+
+Error reading register of magnetic sensor: timed out
+Marker check
+Elapsed time: 0.637216
+Error reading register of magnetic sensor: timed out
+Error reading register of magnetic sensor: timed out
+Elapsed time: 1.171
+Elapsed time: 0.0095092
+Elapsed time: 0.0090972
+Elapsed time: 0.0085318
+Elapsed time: 0.0086025
+Elapsed time: 0.0092366
+Elapsed time: 0.0099258
+Elapsed time: 0.0145982
+Error reading register of magnetic sensor: timed out
+Error reading register of magnetic sensor: timed out
+Marker check
+Elapsed time: 1.65511
+Error reading register of magnetic sensor: timed out
+Error reading register of magnetic sensor: timed out
+
+
+
+Direction for intersection 2: L
+
+Get analog output
+Analog output:
+Marker check
+Get analog output
+Analog output:
+Get digital output
+Error reading register of magnetic sensor: timed out
+Marker check
+Get analog output
+Analog output:
+Get digital output
+Error reading register of magnetic sensor: timed out
+Marker check
+Get analog output
+Analog output:
+Get digital output
+Marker check
+Get analog output
+Analog output:
+Get digital output
+
+
+
+
+
+
+Connection successful
+File found: C://Users//Admin//Downloads//Project1//Map_Direction/0/0_1.txt
+Number of intersections: 2
+Directions:
+1: L
+2: L
+
+Direction for intersection 2: L
+
+File found: C://Users//Admin//Downloads//Project1//Map_Direction/1/1_0.txt
+Number of intersections: 2
+Directions:
+1: R
+2: R
+
+Direction for intersection 2: R
+
+Marker check thread started
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011111000000
+Previous digital output: 0000011111000000
+Current digital output: 0001111111100000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0001111111100000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0001111111100000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Single line detected
+Previous digital output: 0000111111000000
+In Intersection area
+Handle intersection
+Start point passed
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011111000000
+Single line detected
+Previous digital output: 0000011111000000
+Single line detected
+Previous digital output: 0000011111000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011110000000
+Single line detected
+Previous digital output: 0000011111000000
+Previous digital output: 0000011111000000
+Current digital output: 0000111111100000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0001111111100000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111110000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0011111111111000
+Intersection marker detected
+Previous digital output: 0000011111000000
+Current digital output: 0001111111110000
+Intersection marker detected
+Single line detected
+Previous digital output: 0000011111100000
+Single line detected
+Previous digital output: 0000011111000000
+Single line detected
+Previous digital output: 0000001111000000
+Single line detected
+Previous digital output: 0000001111000000
+Single line detected
+Previous digital output: 0000001111000000
+Single line detected
+Previous digital output: 0000001111000000
+Single line detected
+Previous digital output: 0000001111000000
+Single line detected
+Previous digital output: 0000001111000000
+Single line detected
+Previous digital output: 0000001111000000
+Single line detected
+Previous digital output: 0000001111000000
+Single line detected
+Previous digital output: 0000001111000000
+Single line detected
+Previous digital output: 0000001111100000
+Single line detected
+Previous digital output: 0000001111100000
+Single line detected
+Previous digital output: 0000001111100000
+Single line detected
+Previous digital output: 0000001111100000
+S
+
+Connection successful
+VEL_CONTROL
+File found: C://Users//Admin//Downloads//Project1//Map_Direction/0/0_1.txt
+Number of intersections: 2
+Directions:
+1: L
+2: L
+
+Direction for intersection 2: L
+
+File found: C://Users//Admin//Downloads//Project1//Map_Direction/1/1_0.txt
+Number of intersections: 2
+Directions:
+1: R
+2: R
+
+Direction for intersection 2: R
+
+Marker check thread started
+PID analog
+Current speed: 0, 0
+After speed: 2.5, -2.5
+Target speed: 25
+Nearest key: 5
+Left speed: -2, Right speed: 2
+Elapsed time: 0.032071
+Current speed: 2.5, -2.5
+After speed: 5, -5
+Target speed: 25
+Nearest key: 5
+Left speed: -5, Right speed: 4
+Elapsed time: 0.02614
+Current speed: 5, -5
+After speed: 7.5, -7.5
+Target speed: 25
+Nearest key: 10
+Left speed: -7, Right speed: 7
+Elapsed time: 0.062252
+Current speed: 7.5, -7.5
+After speed: 10, -10
+Target speed: 25
+Nearest key: 10
+Left speed: -8, Right speed: 11
+Elapsed time: 0.0414935
+Current speed: 10, -10
+After speed: 12.5, -12.5
+Target speed: 25
+Nearest key: 15
+Left speed: -12, Right speed: 12
+Elapsed time: 0.135835
+Current speed: 12.5, -12.5
+After speed: 15, -15
+Target speed: 25
+Nearest key: 15
+Left speed: -14, Right speed: 15
+Elapsed time: 0.0434673
+Current speed: 15, -15
+After speed: 17.5, -17.5
+Target speed: 25
+Nearest key: 20
+Left speed: -16, Right speed: 18
+Elapsed time: 0.0178337
+Current speed: 17.5, -17.5
+After speed: 20, -20
+Target speed: 25
+Nearest key: 20
+Left speed: -20, Right speed: 19
+Elapsed time: 0.0293532
+Current speed: 20, -20
+After speed: 22.5, -22.5
+Target speed: 25
+Nearest key: 25
+Left speed: -21, Right speed: 23
+Elapsed time: 0.0193192
+Current speed: 22.5, -22.5
+After speed: 25, -25
+Target speed: 25
+Nearest key: 25
+Left speed: -23, Right speed: 26
+Elapsed time: 0.0154769
+Current speed: 25, -25
+Left speed: -23, Right speed: 26
+Elapsed time: 0.0424572
+Current speed: 25, -25
+Left speed: -23, Right speed: 26
+Elapsed time: 0.0131631
+Current speed: 25, -25
+Left speed: -23, Right speed: 26
+Elapsed time: 0.0186737
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0163694
+Current speed: 25, -25
+Left speed: -23, Right speed: 26
+Elapsed time: 0.0306356
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0138315
+Current speed: 25, -25
+Left speed: -22, Right speed: 27
+Elapsed time: 0.0119103
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0167503
+Current speed: 25, -25
+Left speed: -22, Right speed: 27
+Elapsed time: 0.0149404
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0137019
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0129312
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0131208
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0116014
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0101187
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0101487
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0098367
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0151875
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0106968
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0143183
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0114232
+Current speed: 25, -25
+Left speed: -27, Right speed: 22
+Elapsed time: 0.0502865
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0154472
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0107809
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0143292
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0105544
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0142964
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0133305
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0105588
+Current speed: 25, -25
+Left speed: -23, Right speed: 26
+Elapsed time: 0.0149711
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0168372
+Current speed: 25, -25
+Left speed: -23, Right speed: 26
+Elapsed time: 0.0147327
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0109782
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0134687
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0180818
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0131605
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0163754
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0133233
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0138101
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0154588
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0104633
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0149406
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0139247
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0115342
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0164318
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0128062
+Current speed: 25, -25
+Left speed: -23, Right speed: 26
+Elapsed time: 1.06396
+Current speed: 25, -25
+Left speed: -22, Right speed: 27
+Elapsed time: 0.0120599
+Current speed: 25, -25
+Left speed: -22, Right speed: 27
+Elapsed time: 0.011928
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0404199
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.872434
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.17044
+Current speed: 25, -25
+Left speed: -22, Right speed: 27
+Elapsed time: 0.0148426
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0136949
+Current speed: 25, -25
+Left speed: -22, Right speed: 27
+Elapsed time: 0.0115825
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0215545
+Current speed: 25, -25
+Left speed: -21, Right speed: 28
+Elapsed time: 0.0164458
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0153497
+Current speed: 25, -25
+Left speed: -21, Right speed: 28
+Elapsed time: 0.013971
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0119354
+Current speed: 25, -25
+Left speed: -22, Right speed: 27
+Elapsed time: 0.0187542
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0158157
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0155696
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0135171
+Current speed: 25, -25
+Left speed: -23, Right speed: 26
+Elapsed time: 0.0158696
+Current speed: 25, -25
+Left speed: -27, Right speed: 22
+Elapsed time: 0.0171935
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0262525
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0130749
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.018144
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0166883
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0118171
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0185604
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0135957
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0136962
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0172688
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0352023
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0125947
+Current speed: 25, -25
+Left speed: -28, Right speed: 21
+Elapsed time: 0.0122127
+Current speed: 25, -25
+Left speed: -22, Right speed: 27
+Elapsed time: 0.0187285
+Current speed: 25, -25
+Left speed: -28, Right speed: 21
+Elapsed time: 0.0119105
+Current speed: 25, -25
+Left speed: -23, Right speed: 26
+Elapsed time: 0.0142168
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0119749
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0114187
+Current speed: 25, -25
+No line detected
+Checking for line...
+Left speed: -25, Right speed: 25
+Elapsed time: 0.0260109
+Current speed: 25, -25
+No line detected
+Left speed: -25, Right speed: 25
+Elapsed time: 0.0130723
+Current speed: 25, -25
+No line detected
+Left speed: -25, Right speed: 25
+Elapsed time: 0.0175471
+Current speed: 25, -25
+No line detected
+Left speed: -25, Right speed: 25
+Elapsed time: 0.0166614
+Current speed: 25, -25
+No line detected
+Left speed: -25, Right speed: 25
+Elapsed time: 0.0124717
+[EMERGENCY] Emergency stop !
+PID analog has stopped
+Stopped!
+Restart the vehicle
+Line detected
+
+
+
+
+
+Connection successful
+VEL_CONTROL
+File found: C://Users//Admin//Downloads//Project1//Map_Direction/0/0_1.txt
+Number of intersections: 2
+Directions:
+1: L
+2: L
+
+Direction for intersection 2: L
+
+File found: C://Users//Admin//Downloads//Project1//Map_Direction/1/1_0.txt
+Number of intersections: 2
+Directions:
+1: R
+2: R
+
+Direction for intersection 2: R
+
+Marker check thread started
+PID analog
+Current speed: 0, 0
+After speed: 2.5, -2.5
+Target speed: 25
+Nearest key: 5
+Left speed: 0, Right speed: 4
+Elapsed time: 0.0238923
+Current speed: 2.5, -2.5
+After speed: 5, -5
+Target speed: 25
+Nearest key: 5
+Left speed: -3, Right speed: 6
+Elapsed time: 0.0127966
+Current speed: 5, -5
+After speed: 7.5, -7.5
+Target speed: 25
+Nearest key: 10
+Left speed: -5, Right speed: 9
+Elapsed time: 0.0338021
+Current speed: 7.5, -7.5
+After speed: 10, -10
+Target speed: 25
+Nearest key: 10
+Left speed: -7, Right speed: 12
+Elapsed time: 0.0567593
+Current speed: 10, -10
+After speed: 12.5, -12.5
+Target speed: 25
+Nearest key: 15
+Left speed: -9, Right speed: 15
+Elapsed time: 0.0243168
+Current speed: 12.5, -12.5
+After speed: 15, -15
+Target speed: 25
+Nearest key: 15
+Left speed: -13, Right speed: 16
+Elapsed time: 0.148028
+Current speed: 15, -15
+After speed: 17.5, -17.5
+Target speed: 25
+Nearest key: 20
+Left speed: -15, Right speed: 19
+Elapsed time: 0.0180865
+Current speed: 17.5, -17.5
+After speed: 20, -20
+Target speed: 25
+Nearest key: 20
+Left speed: -17, Right speed: 22
+Elapsed time: 0.0232902
+Current speed: 20, -20
+After speed: 22.5, -22.5
+Target speed: 25
+Nearest key: 25
+Left speed: -21, Right speed: 23
+Elapsed time: 0.0197127
+Current speed: 22.5, -22.5
+After speed: 25, -25
+Target speed: 25
+Nearest key: 25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0198284
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0153867
+Current speed: 25, -25
+Left speed: -28, Right speed: 21
+Elapsed time: 0.0128714
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0129547
+Current speed: 25, -25
+Left speed: -27, Right speed: 22
+Elapsed time: 0.011151
+Current speed: 25, -25
+Left speed: -29, Right speed: 20
+Elapsed time: 0.0186595
+Current speed: 25, -25
+Left speed: -27, Right speed: 22
+Elapsed time: 0.0130549
+Current speed: 25, -25
+Left speed: -27, Right speed: 22
+Elapsed time: 0.0107819
+Current speed: 25, -25
+Left speed: -29, Right speed: 20
+Elapsed time: 0.0146488
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0108712
+Current speed: 25, -25
+Left speed: -27, Right speed: 22
+Elapsed time: 0.015432
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0126055
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.009618
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0142601
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.010725
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0110409
+Current speed: 25, -25
+Left speed: -26, Right speed: 23
+Elapsed time: 0.0106218
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0099731
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0115196
+Current speed: 25, -25
+Left speed: -24, Right speed: 25
+Elapsed time: 0.0928487
+Current speed: 25, -25
+Left speed: -16, Right speed: 33
+Elapsed time: 0.0095881
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0137207
+Current speed: 25, -25
+Left speed: -25, Right speed: 24
+Elapsed time: 0.0122902
+Current speed: 25, -25
+Left speed: -23, Right speed: 26
+Elapsed time: 0.018253
+Current speed: 25, -25
+Left speed: -31, Right speed: 18
+Elapsed time: 0.470395
+Current speed: 25, -25
+Left speed: -29, Right speed: 20
+Elapsed time: 0.0143044
+Current speed: 25, -25
+Left speed: -36, Right speed: 13
+Elapsed time: 0.397467
+Current speed: 25, -25
+Left speed: -29, Right speed: 20
+Elapsed time: 0.170807
+Current speed: 25, -25
+Left speed: -5, Right speed: 44
+Elapsed time: 0.0346098
+Current speed: 25, -25
+Left speed: -16, Right speed: 33
+Elapsed time: 0.0149766
+Current speed: 25, -25
+Left speed: -5, Right speed: 45
+Elapsed time: 0.0612679
+Current speed: 25, -25
+Left speed: -5, Right speed: 45
+Elapsed time: 0.867678
+Current speed: 25, -25
+Left speed: -36, Right speed: 13
+Elapsed time: 0.023717
+Current speed: 25, -25
+Left speed: -45, Right speed: 5
+Elapsed time: 0.25523
+Current speed: 25, -25
+Left speed: -45, Right speed: 5
+Elapsed time: 0.0263974
+Current speed: 25, -25
+Left speed: -38, Right speed: 11
+Elapsed time: 0.0164446
+Current speed: 25, -25
+Left speed: -34, Right speed: 15
+Elapsed time: 0.0229396
+Current speed: 25, -25
+Left speed: -31, Right speed: 18
+Elapsed time: 0.0120077
+Current speed: 25, -25
+Left speed: -31, Right speed: 18
+Elapsed time: 0.0161271
+Current speed: 25, -25
+Left speed: -33, Right speed: 16
+Elapsed time: 0.0134833
+Current speed: 25, -25
+Left speed: -32, Right speed: 17
+Elapsed time: 0.012353
+Current speed: 25, -25
+No line detected
+Checking for line...
+Left speed: -25, Right speed: 25
+Elapsed time: 0.0271442
+Current speed: 25, -25
+No line detected
+Left speed: -25, Right speed: 25
+Elapsed time: 0.0127778
+Current speed: 25, -25
+No line detected
+Left speed: -25, Right speed: 25
+Elapsed time: 0.0128757
+Current speed: 25, -25
+No line detected
+Left speed: -25, Right speed: 25
+Elapsed time: 0.0172612
+Current speed: 25, -25
+No line detected
+Left speed: -25, Right speed: 25
+Elapsed time: 0.0159455
+[EMERGENCY] Emergency stop !
+PID analog has stopped
+Single line detected
+Previous digital output: 0000000000000000
+Single line detected
+Previous digital output: 0000000000000000
+Single line detected
+
+Previous digital output: 0000000000000000
+Single line detected
+Previous digital output: 0000000000000000
+Single line detected
+Previous digital output: 0000000000000000
+Stopped!
+Restart the vehicle
+Single line detected
+Previous digital output: 0000000000000000
+Single line detected
+Previous digital output: 0000000000000000
+Single line detected
+Line detected
+Previous digital output: 0000000000000000
+Single line detected
+Previous digital output: 0000000000000000
+Single line detected
+
+
